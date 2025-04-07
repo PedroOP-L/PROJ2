@@ -1,0 +1,15 @@
+#ROTA 1
+Lisboa
+Setubal
+Santarem
+Porto
+
+#ROTA 2
+Porto
+Braga
+Vila_Real
+
+#ROTA 3
+Aveiro
+Leiria
+Lisboa
